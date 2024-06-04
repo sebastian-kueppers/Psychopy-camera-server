@@ -3,6 +3,10 @@ A PsychoPy script that starts a local server which listens for requests to start
 
 Built with PsychoPy version ```v2023.2.3```.
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE.txt) file for details.
+
 ## Usage
 The setup can be used to precisely time video recordings with any process happening in PsychoPy, e.g., if the video recording needs to be synchronized with a stimulus.
 
