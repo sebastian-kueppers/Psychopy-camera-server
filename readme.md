@@ -51,8 +51,7 @@ If not stopped via this route, the video recording is stopped automatically afte
 ### POST /releaseAll
 Releases all cameras and webcams.
 ```
-latencies_filepath = 'latencies/'
-response = requests.post('http://localhost:5000/releaseAll', json={'latencies_filepath': latencies_filepath})
+response = requests.post('http://localhost:5000/releaseAll')
 ```
 
 ## Closing the camera server
