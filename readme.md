@@ -1,7 +1,7 @@
 # Psychopy-camera-server
 A Psychopy script that starts a local server which listens for requests to start and stop video recordings.
 
-Build with PsychoPy version ```v2023.2.3```.
+Built with PsychoPy version ```v2023.2.3```.
 
 ## Usage
 The setup can be used to precisely time video recordings with any process happening in Psychopy, e.g., if the video recording needs to be synchronized with a stimulus. By initializing the camera(s) right at the start of the experiment
